@@ -1,0 +1,17 @@
+{
+    "name": "expressCart",
+    "description": "A fully functioning Node.js shopping cart with Stripe, PayPal and Authorize.net payments.",
+    "repository": "https://github.com/roshnirockers/nodejsexpress",
+    "logo": "https://raw.githubusercontent.com/roshnirockers/nodejsexpress/master/public/images/logo.png",
+    "keywords": [
+        "Shopping cart",
+        "express",
+        "mongodb",
+        "nodejs",
+        "ecommerce",
+        "paypal",
+        "lunr",
+        "cart",
+        "shopping"
+    ]
+}
